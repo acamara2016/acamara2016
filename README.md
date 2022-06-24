@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a real time graphic app
+- 🔭 I’m currently working on a News real time graphic app
 - 🌱 I’m currently learning: React 18
 - 📫 How to reach me: camara.visualstudio@gmail.com
 - 😄 Pronouns: He/Him
