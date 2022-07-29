@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a News real time graphic app
-- 🌱 I’m currently learning: React 18
+- 🔭 I’m currently learning react-native
 - 📫 How to reach me: camara.visualstudio@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ❤️ 🐶
